@@ -1,4 +1,4 @@
-# MERN Role Management Page with Signup and Login Functionalities
+# Areness Role Management Page with Signup and Login Functionalities
 
 This is a MERN (MongoDB, Express.js, React.js, Node.js) stack project implementing role management, signup, and login functionalities. Users can register with their email, username, role (admin or user), and password. Passwords are securely encrypted using bcrypt. Authentication is handled using JWT (JSON Web Tokens). Upon successful login, users are redirected to specific pages based on their role, with personalized greetings.
 
