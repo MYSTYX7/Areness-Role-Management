@@ -10,7 +10,7 @@ import Navbar from "./components/Navbar/Navbar";
 import axios from "axios";
 import "./App.css";
 
-axios.defaults.baseURL = "https://areness-role-manager.onrender.com";
+axios.defaults.baseURL = "https://areness-role-management-server.onrender.com";
 axios.defaults.withCredentials = true;
 
 const App = () => {

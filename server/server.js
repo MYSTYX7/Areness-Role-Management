@@ -9,7 +9,7 @@ const app = express();
 app.use(
   cors({
     credentials: true,
-    origin: "https://areness-role-manager-fe.onrender.com",
+    origin: "https://areness-role-management-client.onrender.com",
   })
 );
 app.use(express.json());

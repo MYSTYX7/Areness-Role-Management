@@ -10,7 +10,7 @@ const {
 router.use(
   cors({
     credentials: true,
-    origin: "https://areness-role-manager-fe.onrender.com",
+    origin: "https://areness-role-management-client.onrender.com",
   })
 );
 
