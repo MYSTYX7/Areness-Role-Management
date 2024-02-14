@@ -90,7 +90,8 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) stack project implementi
 Make sure to set up the following environment variables in the `.env` file located in the server directory:
 
 ```
-MONGODB_URI=<your-mongodb-uri>
+MONGO_URL=<your-mongodb-uri>
+PORT=<your-port>
 JWT_SECRET=<your-jwt-secret>
 ```
 
